@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 o flamengo é bem mesmo
+=======
+o flamengo é bem grandão
+>>>>>>> 6aef4d96fe3cd8d5d61f10636508d7677f226d36
